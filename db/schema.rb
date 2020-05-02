@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 2020_05_01_020759) do
     t.datetime "created_at"
     t.datetime "updated_at"
 
+
   end
 
 end
